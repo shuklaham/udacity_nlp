@@ -1,4 +1,6 @@
-# Udacity NLP ![](https://hits.dwyl.com/shuklaham/udacity_nlp.svg)
+# Udacity NLP 
+
+[![HitCount](http://hits.dwyl.com/shuklaham/udacity_nlp.svg)](http://hits.dwyl.com/shuklaham/udacity_nlp)
 
 
 
